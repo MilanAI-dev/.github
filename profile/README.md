@@ -26,14 +26,6 @@
 
 ---
 
-## 📈 Market & Opportunity
-
-🔹 Global Software Development Tools Market: **$6.61B by 2024** 📈  
-🔹 Indian Software Development Tool Market: **$500M (2024)**  
-🔹 Projected Serviceable Obtainable Market: **$15M**  
-
----
-
 ## 💡 Why Milan AI?
 
 - Eliminates **context switching** (saves ~30% of time).  
