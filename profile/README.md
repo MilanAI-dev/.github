@@ -1,6 +1,6 @@
 # Milan AI
 
-![Milan AI Banner](https://your-image-url.com/banner.png)  
+![Add a heading](https://github.com/user-attachments/assets/c7c54033-0f0b-42b7-bac0-8139f90f16c6)
 
 🚀 **Milan AI** is a cutting-edge, AI-powered platform designed to unify and streamline developers' workflows. It eliminates the hassle of switching between multiple apps by integrating project management, meetings, code sharing, emails, and chats into a single intelligent interface.
 
