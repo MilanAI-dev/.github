@@ -59,8 +59,8 @@
 ## 🤝 Get Involved
 
 🔗 **Website:** [Coming Soon]  
-📧 **Contact:** team@milanai.com  
-💬 **Join the Discussion:** [Discord/Slack Link]  
+📧 **Contact:** contact@milanai.org  
+💬 **Join the Discussion:** [GitHub Link] (https://github.com/orgs/MilanAI-dev/discussions)  
 📌 **Follow Us:** [Twitter](https://twitter.com/milanai) | [LinkedIn](https://linkedin.com/company/milanai)  
 
 ---
