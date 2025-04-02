@@ -50,7 +50,7 @@
 👤 **Vachan M N** – Full-Stack Web Developer  
 👤 **Sumit Kumar Jha** – Blockchain & Full-Stack Developer  
 👤 **Arun Ramesh Chavan** – Full-Stack Developer  
-👤 **V Chaitanya Chowdari** – AI, ML, & Blockchain Enthusiast  
+👤 **V Chaitanya Chowdari** – AI, ML, & Blockchain Developer
 👤 **Darshan Kumar M** – Data Science Enthusiast  
 👤 **Rinith R** – AI-Driven Full-Stack Developer  
 
